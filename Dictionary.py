@@ -4,8 +4,5 @@ Dictionary = {"Name":"Divesh", "Age":20, "College":"Keystone", "Education":"B.E(
 
 print("Display all items of the dictionary:", Dictionary)
 
-print("Display only keys of Dictionary:", Dictionary.keys)
-print("Display only values of Dictionary:", Dictionary.values)
-
-print("Slicing on Dictionary:", Dictionary[2:4])
-
+print("Display only keys of Dictionary:", Dictionary.keys())
+print("Display only values of Dictionary:", Dictionary.values())
